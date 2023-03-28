@@ -1365,4 +1365,21 @@ footer {
   font-weight: 400;
 }
 
+
+.waitlist {
+  margin-left: auto;
+}
+
+.waitlist a.button {
+  display: block;
+  width: calc(50% - 1%);
+  background-color: #000000;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: calc(1em -0.1em);
+  border-radius: 100px;
+ 
+}
+
 }
