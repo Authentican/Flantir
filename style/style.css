@@ -546,8 +546,7 @@ nav {
 }
 @keyframes slideIn {
   from {
-   
-    transform: translateY(15%);
+    transform: translateY(10%);
   }
   to {
     opacity: 1;
